@@ -1,5 +1,3 @@
-Package                   Version
-------------------------- --------------
 anyio                     4.7.0
 archspec                  0.2.3
 argon2-cffi               23.1.0
